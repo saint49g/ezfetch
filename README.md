@@ -1,0 +1,2 @@
+# ezfetch
+another fetch 
